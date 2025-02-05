@@ -15,7 +15,7 @@ const search = document.getElementById("search").addEventListener("submit", asyn
         document.getElementById("weather").classList.remove("show");
         return showAlert(`
             Você precisa digitar uma cidade...
-            <img src="src/img/404.svg"/>
+            <img src="src/img/unsearch.svg"/>
         `)
     } else {
         showAlert(null);

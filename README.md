@@ -18,7 +18,7 @@ Este é um projeto simples de previsão do tempo onde o usuário pode digitar o 
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/mikelj917/Previsão-do-Tempo.git
+   git clone https://github.com/mikelj917/Previsao-do-Tempo.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
